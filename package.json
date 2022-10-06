@@ -1,0 +1,18 @@
+{
+  "name": "responsivehomepage",
+  "version": "1.0.0",
+  "description": "Solution for a challenge from Devchallenges.io",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nekero8/ResponsiveHomepage.git"
+  },
+  "author": "nekero8",
+  "bugs": {
+    "url": "https://github.com/Nekero8/ResponsiveHomepage/issues"
+  },
+  "homepage": "https://github.com/Nekero8/ResponsiveHomepage#readme"
+}
